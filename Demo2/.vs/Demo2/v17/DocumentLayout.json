@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#\\Demo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F2B9F-1627-4E28-84FF-AAF6ED9502DA}|Inheritance\\Inheritance.csproj|e:\\c#\\demo2\\inheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F2B9F-1627-4E28-84FF-AAF6ED9502DA}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F2B9F-1627-4E28-84FF-AAF6ED9502DA}|Inheritance\\Inheritance.csproj|e:\\c#\\demo2\\inheritance\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F2B9F-1627-4E28-84FF-AAF6ED9502DA}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F2B9F-1627-4E28-84FF-AAF6ED9502DA}|Inheritance\\Inheritance.csproj|e:\\c#\\demo2\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F2B9F-1627-4E28-84FF-AAF6ED9502DA}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F2B9F-1627-4E28-84FF-AAF6ED9502DA}|Inheritance\\Inheritance.csproj|e:\\c#\\demo2\\inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F2B9F-1627-4E28-84FF-AAF6ED9502DA}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F2B9F-1627-4E28-84FF-AAF6ED9502DA}|Inheritance\\Inheritance.csproj|e:\\c#\\demo2\\inheritance\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F2B9F-1627-4E28-84FF-AAF6ED9502DA}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F2B9F-1627-4E28-84FF-AAF6ED9502DA}|Inheritance\\Inheritance.csproj|e:\\c#\\demo2\\inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F2B9F-1627-4E28-84FF-AAF6ED9502DA}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "E:\\c#\\Demo2\\Inheritance\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "Inheritance\\HourlyEmployee.cs",
+              "ToolTip": "E:\\c#\\Demo2\\Inheritance\\HourlyEmployee.cs",
+              "RelativeToolTip": "Inheritance\\HourlyEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:15:04.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "E:\\c#\\Demo2\\Inheritance\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "Inheritance\\SalariedEmployee.cs",
+              "ToolTip": "E:\\c#\\Demo2\\Inheritance\\SalariedEmployee.cs",
+              "RelativeToolTip": "Inheritance\\SalariedEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:05:15.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\c#\\Demo2\\Inheritance\\Employee.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Employee.cs",
+              "ToolTip": "E:\\c#\\Demo2\\Inheritance\\Employee.cs",
+              "RelativeToolTip": "Inheritance\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:02:22.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\c#\\Demo2\\Inheritance\\Student.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Student.cs",
+              "ToolTip": "E:\\c#\\Demo2\\Inheritance\\Student.cs",
+              "RelativeToolTip": "Inheritance\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:44:42.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\c#\\Demo2\\Inheritance\\Person.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Person.cs",
+              "ToolTip": "E:\\c#\\Demo2\\Inheritance\\Person.cs",
+              "RelativeToolTip": "Inheritance\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:35:49.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#\\Demo2\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "E:\\c#\\Demo2\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:25:03.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
